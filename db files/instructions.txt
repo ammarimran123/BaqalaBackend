@@ -1,0 +1,4 @@
+make a db baqala_db
+import the baqala_db.mysql file
+
+configure the env file accordingly. 
